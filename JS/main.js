@@ -46,7 +46,7 @@ document.querySelectorAll('.featured-image-3').forEach(image_3 =>{
 /*=============== SWIPER JS ===============*/
 let swiperCards = new Swiper(".card__content", {
   slidesPerView: 3,
-  spaceBetween: 20,
+  spaceBetween: 35,
   sliderPerGroup: 4,
   loop: true,
   centerSlide: "true",
